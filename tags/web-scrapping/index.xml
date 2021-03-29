@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scrapping on Ronit Malik</title>
+    <link>https://ronitmalik.github.io/Portfolio/tags/web-scrapping/</link>
+    <description>Recent content in Web Scrapping on Ronit Malik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ronitmalik.github.io/Portfolio/tags/web-scrapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Price Tracker</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</guid>
+      <description>This project was part of my youtube channel where I build a yahoo finance web-scrapper to get stock prices from yahoo finance, I used the Yahoo_fin package to get the prices for various stock prices and ran further trend analysis. The main goal of this project was to explore the yahoo_fin package.
+The following video for this project can be found on my Youtube Channel
+You can view the source code for this project on my Github</description>
+    </item>
+    
+    <item>
+      <title>Yahoo Finance Web Scrapper</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/yahoo_fin_web_scrapper/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/yahoo_fin_web_scrapper/</guid>
+      <description>This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. The way the model works is you add a link to the amazon product and the price you&amp;rsquo;re willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert.</description>
+    </item>
+    
+  </channel>
+</rss>

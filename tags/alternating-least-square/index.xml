@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternating Least Square on Ronit Malik</title>
+    <link>https://ronitmalik.github.io/Portfolio/tags/alternating-least-square/</link>
+    <description>Recent content in Alternating Least Square on Ronit Malik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ronitmalik.github.io/Portfolio/tags/alternating-least-square/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation Systems</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/movie_recommendation/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/movie_recommendation/</guid>
+      <description>This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+The main reason behind carrying out this research was to understand how big tech companies recommend items to its users, companies like Amazon, Netflix, Spotify and many more use recommendation systems to recommend items to its users on a daily basis.
+Overview Recommendation system work on the principal of &amp;ldquo;homophily&amp;rdquo; which means similar users prefer similar items, this means that companies are able to accurately predict which users is most likely to buy something / watch something.</description>
+    </item>
+    
+  </channel>
+</rss>

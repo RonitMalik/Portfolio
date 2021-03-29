@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Ronit Malik</title>
+    <link>https://ronitmalik.github.io/Portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Ronit Malik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ronitmalik.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Price Tracker</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</guid>
+      <description>This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. The way the model works is you add a link to the amazon product and the price you&amp;rsquo;re willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo Finance Web Scrapper</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/yahoo_fin_web_scrapper/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/yahoo_fin_web_scrapper/</guid>
+      <description>This project was part of my Youtube channel where I build a yahoo finance web-scrapper to get stock prices from yahoo finance, This project was inspired as I was actively investing in the stock market and needed to automate the process to get and analyse data faster for various companies. The yahoo fin package help solves that huddle as it allow to automate the process through a script written in python.</description>
+    </item>
+    
+    <item>
+      <title>Movie Recommendation Systems</title>
+      <link>https://ronitmalik.github.io/Portfolio/post/movie_recommendation/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/post/movie_recommendation/</guid>
+      <description>This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+The main reason behind carrying out this research was to understand how big tech companies recommend items to its users, companies like Amazon, Netflix, Spotify and many more use recommendation systems to recommend items to its users on a daily basis.
+Overview Recommendation system work on the principal of &amp;ldquo;homophily&amp;rdquo; which means similar users prefer similar items, this means that companies are able to accurately predict which users is most likely to buy something / watch something.</description>
+    </item>
+    
+    <item>
+      <title>Contact </title>
+      <link>https://ronitmalik.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronitmalik.github.io/Portfolio/contact/</guid>
+      <description>Follow me on these Social Media Platforms.
+   Platforms      Youtube : https://www.youtube.com/channel/UCg_snN6MEkT6wPRczCup7UQ   Linkedin : https://uk.linkedin.com/in/ronitmalik   Medium : https://ronit-malik.medium.com/   Github : https://github.com/RonitMalik    </description>
+    </item>
+    
+  </channel>
+</rss>
